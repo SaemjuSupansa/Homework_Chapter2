@@ -1,24 +1,10 @@
-﻿Build started 7/12/2020 6:34:06 PM.
+﻿Build started 7/15/2020 11:56:53 PM.
      1>Project "C:\Users\Saem ju\documents\visual studio 2010\Projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\6006021611062_homework_chapter2.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 6006021611062_homework_chapter2.cpp
          6006021611062_homework_chapter2.cpp
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(8): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(8): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(8): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(10): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(10): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(10): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(11): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(11): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(11): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(12): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(12): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(12): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(14): warning C4129: ' ' : unrecognized character escape sequence
-     1>c:\users\saem ju\documents\visual studio 2010\projects\6006021611062_homework_chapter2\6006021611062_homework_chapter2\6006021611062_homework_chapter2.cpp(14): warning C4129: ' ' : unrecognized character escape sequence
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
@@ -37,4 +23,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:05.43
+Time Elapsed 00:00:01.97
